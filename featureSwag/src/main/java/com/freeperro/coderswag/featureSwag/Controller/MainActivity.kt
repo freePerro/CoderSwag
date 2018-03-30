@@ -1,7 +1,8 @@
-package com.freeperro.coderswag.featureSwag
+package com.freeperro.coderswag.featureSwag.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.freeperro.coderswag.featureSwag.R
 
 class MainActivity : AppCompatActivity() {
 

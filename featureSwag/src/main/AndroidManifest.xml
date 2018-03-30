@@ -3,7 +3,7 @@
     package="com.freeperro.coderswag.featureSwag">
 
     <application>
-        <activity android:name=".MainActivity">
+        <activity android:name=".Controller.MainActivity">
             <intent-filter android:order="1">
                 <action android:name="android.intent.action.VIEW" />
 
