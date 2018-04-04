@@ -1,1 +1,4 @@
-<resources></resources>
+<resources>
+    <string name="hats">Hats</string>
+    <string name="catagories">Catagories</string>
+</resources>

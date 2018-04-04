@@ -1,4 +1,6 @@
 package com.freeperro.coderswag.featureSwag.Model
 
-class Product(val title: String, val price: String, val image: String) {
-}
+/**
+ * Created by jonnyb on 8/21/17.
+ */
+class Product(val title: String, val price: String, val image: String)
